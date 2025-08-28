@@ -9,7 +9,7 @@
 📈 Meu objetivo é continuar aprendendo e contribuir com soluções criativas e eficientes para o mundo da programação. </br>
 
 💻 Atualmente focado em:
-- Backend: **Node.js** & **SQL**
+- Backend: **Node.js**, **SQL**, **Java**
 - Frontend: **React**, **typescript**, **javascript**, **HTML** & **CSS**
 
 ---
